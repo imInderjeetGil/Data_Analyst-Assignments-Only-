@@ -1,1 +1,2 @@
-Assignment_1.ipynb Data Analyst submitted by: Inderjeet Singh
+Assignment_1.ipynb & Assignment_2.ipynb
+Data Analyst Assignments submitted by: Inderjeet Singh
